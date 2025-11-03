@@ -12,7 +12,7 @@ jobs:
 
         
       - name: build image
-        run: docker build -t <imagenameisimportant> .
+        run: docker build -t <dockered> .
 
 
 
